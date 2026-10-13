@@ -157,7 +157,7 @@ function FooterLogo() {
       <img
         src={`${
           import.meta.env.BASE_URL
-        }gsc-logo.png`}
+        }gsc-alt-logo.png`}
         alt="Greenwich Skating Club"
       />
     </a>
